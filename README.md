@@ -1,0 +1,2 @@
+# Import existed AWS resources into terraform
+> Medium: [https://medium.com/tri-petch-digital/import-existed-aws-resources-into-terraform-9486ef24617d](https://medium.com/tri-petch-digital/import-existed-aws-resources-into-terraform-9486ef24617d)
